@@ -1,5 +1,7 @@
 x = input("Enter a number:")
+
 x=int(x)
+
 if x<10:
     print("number<10:")
 elif x<20:
